@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\net7.0\22DH110144_NguyenVietAnh.exe
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\net7.0\22DH110144_NguyenVietAnh.deps.json
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\net7.0\22DH110144_NguyenVietAnh.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\net7.0\22DH110144_NguyenVietAnh.dll
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\net7.0\22DH110144_NguyenVietAnh.pdb
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.dll
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\refint\22DH110144_NguyenVietAnh.dll
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.pdb
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\22DH110144_NguyenVietAnh.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH3\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\net7.0\ref\22DH110144_NguyenVietAnh.dll
