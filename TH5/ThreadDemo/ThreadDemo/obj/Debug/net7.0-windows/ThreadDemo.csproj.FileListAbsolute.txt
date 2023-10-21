@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\bin\Debug\net7.0-windows\ThreadDemo.exe
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\bin\Debug\net7.0-windows\ThreadDemo.deps.json
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\bin\Debug\net7.0-windows\ThreadDemo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\bin\Debug\net7.0-windows\ThreadDemo.dll
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\bin\Debug\net7.0-windows\ThreadDemo.pdb
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.dll
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\refint\ThreadDemo.dll
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.pdb
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ThreadDemo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH5\ThreadDemo\ThreadDemo\obj\Debug\net7.0-windows\ref\ThreadDemo.dll

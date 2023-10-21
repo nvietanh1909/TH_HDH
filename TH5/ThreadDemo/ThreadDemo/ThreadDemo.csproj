@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\A.png" />
+    <None Remove="Resources\B.png" />
+    <None Remove="Resources\C.png" />
+    <None Remove="Resources\D.png" />
+    <None Remove="Resources\E.png" />
+    <None Remove="Resources\F.png" />
+    <None Remove="Resources\G.png" />
+    <None Remove="Resources\H.png" />
+    <None Remove="Resources\I.png" />
+    <None Remove="Resources\J.png" />
+    <None Remove="Resources\K.png" />
+    <None Remove="Resources\L.png" />
+    <None Remove="Resources\M.png" />
+    <None Remove="Resources\N.png" />
+    <None Remove="Resources\O.png" />
+    <None Remove="Resources\P.png" />
+    <None Remove="Resources\Q.png" />
+    <None Remove="Resources\R.png" />
+    <None Remove="Resources\S.png" />
+    <None Remove="Resources\T.png" />
+    <None Remove="Resources\U.png" />
+    <None Remove="Resources\V.png" />
+    <None Remove="Resources\W.png" />
+    <None Remove="Resources\X.png" />
+    <None Remove="Resources\Y.png" />
+    <None Remove="Resources\Z.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\A.png" />
+    <EmbeddedResource Include="Resources\B.png" />
+    <EmbeddedResource Include="Resources\C.png" />
+    <EmbeddedResource Include="Resources\D.png" />
+    <EmbeddedResource Include="Resources\E.png" />
+    <EmbeddedResource Include="Resources\F.png" />
+    <EmbeddedResource Include="Resources\G.png" />
+    <EmbeddedResource Include="Resources\H.png" />
+    <EmbeddedResource Include="Resources\I.png" />
+    <EmbeddedResource Include="Resources\J.png" />
+    <EmbeddedResource Include="Resources\K.png" />
+    <EmbeddedResource Include="Resources\L.png" />
+    <EmbeddedResource Include="Resources\M.png" />
+    <EmbeddedResource Include="Resources\N.png" />
+    <EmbeddedResource Include="Resources\O.png" />
+    <EmbeddedResource Include="Resources\P.png" />
+    <EmbeddedResource Include="Resources\Q.png" />
+    <EmbeddedResource Include="Resources\R.png" />
+    <EmbeddedResource Include="Resources\S.png" />
+    <EmbeddedResource Include="Resources\T.png" />
+    <EmbeddedResource Include="Resources\U.png" />
+    <EmbeddedResource Include="Resources\V.png" />
+    <EmbeddedResource Include="Resources\W.png" />
+    <EmbeddedResource Include="Resources\X.png" />
+    <EmbeddedResource Include="Resources\Y.png" />
+    <EmbeddedResource Include="Resources\Z.png" />
+  </ItemGroup>
+
+</Project>
