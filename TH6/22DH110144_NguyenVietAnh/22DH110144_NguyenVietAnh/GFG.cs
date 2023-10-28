@@ -64,12 +64,8 @@ namespace _22DH110144_NguyenVietAnh
         }
         public static void roundRobin(String[] p, int[] a, int[] b, int n)
         {
-            // result of average times
             int res = 0; int resc = 0;
-            // for sequence storage
             String seq = "";
-            // copy the burst array and arrival array
-            // for not effecting the actual array
             int[] res_b = new int[b.Length]; int[]
             res_a = new int[a.Length];
             for (int i = 0; i < res_b.Length; i++)
@@ -77,20 +73,14 @@ namespace _22DH110144_NguyenVietAnh
                 res_b[i] = b[i];
                 res_a[i] = a[i];
             }
-            // critical time of system
             int t = 0;
-            // for store the waiting time
             int[] w = new int[p.Length];
-            // for store the Completion time
             int[] comp = new int[p.Length];
             while (true)
             {
                 Boolean flag = true;
                 for (int i = 0; i < p.Length; i++)
                 {
-                    // these condition for if
-                    // arrival is not on zero
-                    // check that if there come before qtime
                     if (res_a[i] <= t)
                     {
                         if (res_a[i] <= n)
@@ -100,34 +90,25 @@ namespace _22DH110144_NguyenVietAnh
                                 flag = false;
                                 if (res_b[i] > n)
                                 {
-                                    // make decrease the b time
-                                    t = t + n; res_b[i] =
-                                    res_b[i] - n;
+                                    t = t + n; 
+                                    res_b[i] = res_b[i] - n;
                                     res_a[i] = res_a[i] + n;
                                     seq += "->" + p[i];
                                 }
                                 else
                                 {
-                                    // for last time
                                     t = t + res_b[i];
-                                    // store comp time
                                     comp[i] = t - a[i];
-                                    // store wait time
                                     w[i] = t - b[i] - a[i];
                                     res_b[i] = 0;
-                                    // add sequence
                                     seq += "->" + p[i];
                                 }
                             }
                         }
                         else if (res_a[i] > n)
                         {
-                            // is any have less arrival time
-                            // the coming process then execute
-                            // them
                             for (int j = 0; j < p.Length; j++)
                             {
-                                // compare
                                 if (res_a[j] < res_a[i])
                                 {
                                     if (res_b[j] > 0)
@@ -135,8 +116,8 @@ namespace _22DH110144_NguyenVietAnh
                                         flag = false;
                                         if (res_b[j] > n)
                                         {
-                                            t = t + n; res_b[j]
-                                            = res_b[j] - n;
+                                            t = t + n; 
+                                            res_b[j] = res_b[j] - n;
                                             res_a[j] = res_a[j] + n;
                                             seq += "->" + p[j];
                                         }
@@ -144,8 +125,8 @@ namespace _22DH110144_NguyenVietAnh
                                         {
                                             t = t + res_b[j];
                                             comp[j] = t - a[j];
-                                            w[j] = t - b[j]
-                                            - a[j]; res_b[j] = 0;
+                                            w[j] = t - b[j] - a[j]; 
+                                            res_b[j] = 0;
                                             seq += "->" + p[j];
                                         }
                                     }
@@ -156,9 +137,9 @@ namespace _22DH110144_NguyenVietAnh
                                 flag = false;
                                 if (res_b[i] > n)
                                 {
-                                    t = t + n; res_b[i] =
-                                    res_b[i] - n; res_a[i] =
-                                    res_a[i] + n;
+                                    t = t + n; 
+                                    res_b[i] = res_b[i] - n; 
+                                    res_a[i] = res_a[i] + n;
                                     seq += "-> " + p[i];
                                 }
                                 else
