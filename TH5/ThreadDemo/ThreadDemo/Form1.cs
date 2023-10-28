@@ -109,7 +109,7 @@ namespace ThreadDemo
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
-        {
+        {   
             int newch = e.KeyValue;
             if (newch < 0x41 || newch > 0x5a) return;
             if (e.Control && e.Shift)
@@ -158,8 +158,7 @@ namespace ThreadDemo
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
-            int i;
-            for (i = 0; i < 26; i++)
+            for (var i = 0; i < 26; i++)
                 if (threadLst[i].start)
                 {
                     threadLst[i].start = false;
