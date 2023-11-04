@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "22DH110144_NguyenVietAnh/1.0.0": {
+        "runtime": {
+          "22DH110144_NguyenVietAnh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22DH110144_NguyenVietAnh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
