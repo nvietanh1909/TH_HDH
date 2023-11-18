@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\22DH110144_NguyenVietAnh.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\22DH110144_NguyenVietAnh.exe
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\bin\Debug\22DH110144_NguyenVietAnh.pdb
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\22DH110144_NguyenVietAnh.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\_22DH110144_NguyenVietAnh.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\_22DH110144_NguyenVietAnh.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\22DH110144_NguyenVietAnh.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\22DH110144_NguyenVietAnh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\22DH110144_NguyenVietAnh.exe
+C:\Users\Admin\OneDrive\Máy tính\Viet Anh\THHDH_NguyenVietAnh\TH8\22DH110144_NguyenVietAnh\22DH110144_NguyenVietAnh\obj\Debug\22DH110144_NguyenVietAnh.pdb
